@@ -1,6 +1,5 @@
 # Flexbox
 
-Exemplo de flexbos
-
+Exemplo de flexbox
 
 
